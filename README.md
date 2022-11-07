@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @RedZap13
-- 👀 I’m interested in Games
-- 🌱 I’m currently learning Pokémon
-- 💞️ I’m looking to collaborate on Nope
-- 📫 How to reach me riasatsarker@gmail.com
+- Yo. You are not me I suppose.
 
 <!---
 RedZap13/RedZap13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
